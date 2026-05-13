@@ -56,8 +56,8 @@ import { onMounted } from 'vue'
 import { PaintBrushIcon, FilmIcon, SparklesIcon, AcademicCapIcon } from '@heroicons/vue/24/outline'
 
 const stats = [
-  { value: '10K+', label: 'Followers' },
-  { value: '50+',  label: 'Video Dibuat' },
+  { value: '500+', label: 'Followers' },
+  { value: '10+',  label: 'Video Dibuat' },
   { value: '2+',   label: 'Tahun Aktif' },
 ]
 onMounted(() => {
